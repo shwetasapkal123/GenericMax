@@ -1,0 +1,8 @@
+C:\Users\Felloeship\Assignment\NlogPractice\NlogPractice\bin\Debug\NlogPractice.exe.config
+C:\Users\Felloeship\Assignment\NlogPractice\NlogPractice\bin\Debug\NlogPractice.exe
+C:\Users\Felloeship\Assignment\NlogPractice\NlogPractice\bin\Debug\NlogPractice.pdb
+C:\Users\Felloeship\Assignment\NlogPractice\NlogPractice\obj\Debug\GenericsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felloeship\Assignment\NlogPractice\NlogPractice\obj\Debug\GenericsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Felloeship\Assignment\NlogPractice\NlogPractice\obj\Debug\NlogPractice.exe
+C:\Users\Felloeship\Assignment\NlogPractice\NlogPractice\obj\Debug\NlogPractice.pdb
+C:\Users\Felloeship\Assignment\NlogPractice\NlogPractice\obj\Debug\GenericsPractice.csproj.AssemblyReference.cache
